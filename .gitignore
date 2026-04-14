@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# настройки
+appsettings.Development.json
+
+#БД дампы
+*.dump
+*.bak
+*.sql.gz
+
+# OS
+.DS_Store
+Thumbs.db
